@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/2a63ca5341c9dd769b3cf9c86d6e31c37c586cb6a32176b8797454aa683b500f/68747470733a2f2f6469676974616c65646765746563682e696e2f696d616765732f42616e6e65725f30332e676966)
 <h1 align="center">Hi 🙋‍♂️, I'm Chintamani Chavan</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 # 💫 About Me:
 🔭 I’m currently working on MERN Stack Developement.<br>👯 I’m looking to collaborate on Embedded and Software Development related projects.<br>🤝 I’m looking for help with or in NodeJS, ExpressJS and Cloud Platforms.<br>🌱 I’m currently learning NodeJS, ExpressJS and Cloud Computing. <br>💬 Ask me about on CPP, ReactJS, JavaScript, Python, SQL. <br>⚡ Fun fact is that "OpenSource contribution is really not an easy open path".
