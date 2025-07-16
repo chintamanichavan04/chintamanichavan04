@@ -28,7 +28,7 @@
 
 ## 📈 GitHub Stats
 
-![Chintamani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chintamani-Chavan&show_icons=true&theme=vue-dark&hide_border=true)
+![Chintamani's GitHub stats](https://github-readme-stats-chintamani.vercel.app/api?username=Chintamani-Chavan&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintamani-Chavan&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chintamani-Chavan&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
