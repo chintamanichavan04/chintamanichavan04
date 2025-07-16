@@ -1,56 +1,62 @@
-# 👋 Hi there, I'm Chintamani Chavan
+<h1 align="center">Hey there! 👋 I'm Chintamani Chavan</h1>
+<h3 align="center">🚀 Full Stack Developer | React • Next.js • Node.js • AWS</h3>
 
-🚀 Passionate Full Stack Developer | 💻 React, Next.js, Node.js | ☁️ AWS & DevOps Enthusiast  
-🎯 Focused on performance, scalability, and user experience.
+<p align="center">
+  <a href="https://www.linkedin.com/in/chintamani-chavan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chintamanichavan04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🔧 Tech Stack
+🔭 **Currently:**  
+- Working at **India Today Group** as a Full Stack Developer  
+- Engineering performance-optimized and SEO-first solutions using **Next.js, Redis, and AWS**
 
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) 
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+🏆 **Key Contribution:**  
+- Led the frontend migration of [**Sportstak**](https://thesportstak.com) (company project) to **Next.js**  
+- Implemented Redis-based caching, dynamic sitemaps, and real-time data flows to improve Core Web Vitals and scalability
 
-**Backend & Infra:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+💡 **Currently Learning:**  
+- AWS Lambda, Docker, and advanced distributed system design  
+- Building side projects using OpenAI API and Redis pipelines  
 
-**DevOps & Tools:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+🛠️ **Tech Stack:**  
+**Frontend:** React.js, Next.js, Tailwind CSS, Redux  
+**Backend:** Node.js, Express.js, Redis, MongoDB, REST APIs  
+**Infra & DevOps:** AWS, Docker, Git, Nginx  
+
+---
+
+## ⚙️ Side Projects
+
+- 🌍 **Globetrotter (WIP)** – AI-powered travel guessing game with Node.js backend and OpenAI API  
+- 🎬 **Movie Explorer** – A movie browser using TMDB API with filters, favorites, and search  
+- ⛅ **WeatherDash** – A live weather dashboard built with React and OpenWeatherMap
 
 ---
 
 ## 📈 GitHub Stats
 
-![Chintamani's GitHub stats](https://github-readme-stats-chintamani.vercel.app/api?username=Chintamani-Chavan&show_icons=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chintamani-Chavan&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Chintamani-Chavan&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chintamani-Chavan&show_icons=true&theme=vue-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chintamani-Chavan&layout=compact&theme=vue-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chintamani-Chavan&theme=vue-dark&hide_border=true" />
+</p>
 
 ---
 
-## 🔥 Projects
+## 🤝 Let's Connect
 
-- 📰 [**Sportstak**](https://thesportstak.com) — Full-stack sports news app built with Next.js, Redis & SEO best practices  
-- 🌍 **Globetrotter** — AI-powered travel guessing game (React + Node + OpenAI API)  
-- 🎬 **Movie Explorer** — Search and filter movies using TMDB API  
-- ⛅ **Live Weather App** — Realtime weather dashboard using OpenWeatherMap
+- 💼 [LinkedIn](https://www.linkedin.com/in/chintamani-chavan/)
+- 📬 [Email](mailto:chintamanichavan04@gmail.com)
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chintamani-chavan/)
-[![Twitter](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white)](https://twitter.com/chintamani_04)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:chintamanichavan04@gmail.com)
-
----
-
-## 📬 Fun Fact
-
-🧠 I once debugged an entire app by asking, *“What would ChatGPT do?”* 😉
+> 🧠 *Fun Fact:* I often debug things by asking — “What would ChatGPT do?” 😄
